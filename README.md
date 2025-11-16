@@ -6,9 +6,6 @@ A simple and interactive **Snake Game** built using **HTML, CSS, and JavaScript*
 
 ## 📸 Game Preview
 
-> Add your screenshot here  
-> Example:
->
 > ```md
 > ![Snake Game Screenshot](./public/img/screenshot.png)
 > ```
