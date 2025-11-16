@@ -7,7 +7,7 @@ A simple and interactive **Snake Game** built using **HTML, CSS, and JavaScript*
 ## 📸 Game Preview
 
 > ```md
-> ![Snake Game Screenshot](./public/img/screenshot.png)
+> ![Snake Game Screenshot](public/img/screenshot.png)
 > ```
 
 ---
